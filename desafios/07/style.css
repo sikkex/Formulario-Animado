@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background-color: #1B9E3B;
+  background-color: rgb(23, 1, 80);
   font-family: Roboto, Arial, sans-serif;
 }
 
@@ -25,12 +25,12 @@ h1 {
   font-size: 32px;
   letter-spacing: 1px;
   margin: 20px 0;
-  color: white;
+  color: rgb(214, 189, 255);
 }
 
 form {
   margin: 20px 0;
-  background-color: white;
+  background-color: rgb(170, 157, 192);
   padding: 30px 25px;
   border-radius: 5px;
 }
@@ -50,18 +50,19 @@ form .input-block input {
   margin-top: 8px;
   padding: 7px;
   font-size: 16px;
-  color: #1B9E3B;
+  color: rgb(23, 1, 80);
   border-radius: 2px;
   border: 1px solid #ccddef;
-  outline-color: #1B9E3B;
+  outline-color: rgb(23, 1, 80);
+  background-color: rgb(237, 227, 255);
 }
 
 form .btn-login {
   display: block;
   min-width: 120px;
   border: none;
-  background-color: #1B9E3B;
-  color: white;
+  background-color: rgb(23, 1, 80);
+  color: rgb(170, 157, 192);
   border-radius: 25px;
   margin: auto;
   padding: 7px;
