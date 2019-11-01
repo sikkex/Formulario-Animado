@@ -15,7 +15,7 @@
 
 8 propriedades:
 
-- animation-name: animationname;
+
 - animation-duration: 2s;
 - animation-delay: 3s;
 - animation-fill-mode: none;
