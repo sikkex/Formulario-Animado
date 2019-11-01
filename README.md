@@ -15,11 +15,7 @@
 
 8 propriedades:
 
-<<<<<<< HEAD
-- animation-name: animationname; // alterando
-=======
-
->>>>>>> teste
+- animation-name: animationname;
 - animation-duration: 2s;
 - animation-delay: 3s;
 - animation-fill-mode: none;
